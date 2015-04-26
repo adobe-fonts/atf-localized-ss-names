@@ -1,0 +1,87 @@
+featureNames {
+	# Chinese S
+	name 3 1 0x0804 "\957F\5C3E Q";
+
+	# Chinese T
+	name 3 1 0x0404 "\9577\5C3E Q";
+
+	# Czech
+	name 3 1 0x0405 "dlouho-sledoval Q";
+
+	# Danish
+	name 3 1 0x0406 "longtail Q";
+
+	# Dutch
+	name 3 1 0x0413 "lange-tailed Q";
+
+	# English GB
+	name 3 1 0x0809 "long-tailed Q";
+
+	# English US
+	name 1 0 0 "long-tailed Q";
+	name 3 1 0x0409 "long-tailed Q";
+
+	# Finnish
+	name 3 1 0x040B "Alli Q";
+
+	# French CA
+	name 3 1 0x0C0C "longue queue Q";
+
+	# French FR
+	name 3 1 0x040C "longue queue Q";
+
+	# German
+	name 3 1 0x0407 "long-tailed Q";
+
+	# Greek
+	name 3 1 0x0408 "\03BC\03B5 \03BC\03B1\03BA\03C1\03B9\03AC \03BF\03C5\03C1\03AC Q";
+
+	# Hindi
+	name 3 1 0x0439 "\0932\0902\092C\0940 \092A\0942\0902\091B Q";
+
+	# Hungarian
+	name 3 1 0x040E "hossz\00FA fark\00FA Q";
+
+	# Italian
+	name 3 1 0x0410 "lunga coda Q";
+
+	# Japanese
+	name 3 1 0x0411 "\30ED\30F3\30B0\30C6\30FC\30EB Q";
+
+	# Korean
+	name 3 1 0x0412 "\AE34 \AF2C\B9AC Q";
+
+	# Malayalam
+	name 3 1 0x044C "\0D28\0D40\0D23\0D4D\0D1F-\0D09\0D2A\0D1C\0D3E\0D24\0D3F Q";
+
+	# Marathi
+	name 3 1 0x044E "\0932\093E\0902\092C \0936\0947\092A\091F\0940\091A\0940 \0918\093E\0930 Q";
+
+	# Norwegian
+	name 3 1 0x0414 "lang-tailed Q";
+
+	# Polish
+	name 3 1 0x0415 "Long-tailed Q";
+
+	# Portuguese
+	name 3 1 0x0416 "de cauda longa Q";
+
+	# Russian
+	name 3 1 0x0419 "\0414\043B\0438\043D\043D\043E\0445\0432\043E\0441\0442\044B\0435 Q";
+
+	# Spanish ES
+	name 3 1 0x040A "larga cola Q";
+
+	# Spanish MX
+	name 3 1 0x080A "larga cola Q";
+
+	# Swedish
+	name 3 1 0x041D "l\00E5ng tailed Q";
+
+	# Turkish
+	name 3 1 0x041F "Uzun kuyruklu Q";
+
+	# Ukrainian
+	name 3 1 0x0422 "\0414\043E\0432\0433\043E\0445\0432\043E\0441\0442\0456 Q";
+
+};

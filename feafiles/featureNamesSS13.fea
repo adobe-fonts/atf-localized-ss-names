@@ -1,0 +1,87 @@
+featureNames {
+	# Chinese S
+	name 3 1 0x0804 "UNICASE\5F62\5F0F";
+
+	# Chinese T
+	name 3 1 0x0404 "UNICASE\5F62\5F0F";
+
+	# Czech
+	name 3 1 0x0405 "Unicase formul\00E1\0159e";
+
+	# Danish
+	name 3 1 0x0406 "unicase former";
+
+	# Dutch
+	name 3 1 0x0413 "UNICASE vormen";
+
+	# English GB
+	name 3 1 0x0809 "unicase forms";
+
+	# English US
+	name 1 0 0 "unicase forms";
+	name 3 1 0x0409 "unicase forms";
+
+	# Finnish
+	name 3 1 0x040B "UNICASE lomakkeet";
+
+	# French CA
+	name 3 1 0x0C0C "formes Carter monobloc";
+
+	# French FR
+	name 3 1 0x040C "formes Carter monobloc";
+
+	# German
+	name 3 1 0x0407 "Blockgeh\00E4useformen";
+
+	# Greek
+	name 3 1 0x0408 "unicase \03BC\03BF\03C1\03C6\03AD\03C2";
+
+	# Hindi
+	name 3 1 0x0439 "unicase \0930\0942\092A\094B\0902";
+
+	# Hungarian
+	name 3 1 0x040E "unicase form\00E1k";
+
+	# Italian
+	name 3 1 0x0410 "forme Unicase";
+
+	# Japanese
+	name 3 1 0x0411 "unicase\30D5\30A9\30FC\30E0";
+
+	# Korean
+	name 3 1 0x0412 "\B2E8\C77C\D615 \BB38\C790 \D615\D0DC";
+
+	# Malayalam
+	name 3 1 0x044C "unicase \0D2B\0D47\0D3E\0D2E\0D41\0D15\0D7E";
+
+	# Marathi
+	name 3 1 0x044E "unicase \092B\0949\0930\094D\092E";
+
+	# Norwegian
+	name 3 1 0x0414 "unicase skjemaer";
+
+	# Polish
+	name 3 1 0x0415 "formy Unicase";
+
+	# Portuguese
+	name 3 1 0x0416 "formas monobloco";
+
+	# Russian
+	name 3 1 0x0419 "Unicase \0444\043E\0440\043C\044B";
+
+	# Spanish ES
+	name 3 1 0x040A "formas Unicase";
+
+	# Spanish MX
+	name 3 1 0x080A "formas Unicase";
+
+	# Swedish
+	name 3 1 0x041D "unicase former";
+
+	# Turkish
+	name 3 1 0x041F "Unicase formlar";
+
+	# Ukrainian
+	name 3 1 0x0422 "Unicase \0444\043E\0440\043C\0438";
+
+};

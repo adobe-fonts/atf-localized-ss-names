@@ -1,0 +1,87 @@
+featureNames {
+	# Chinese S
+	name 3 1 0x0804 "\600E\4E48\6837\FF0C\5982\679C\559C\6B22\7684\8BDD\662F\6F2B\957F\7684??!!";
+
+	# Chinese T
+	name 3 1 0x0404 "\600E\9EBC\6A23\FF0C\5982\679C\559C\6B61\7684\8A71\662F\6F2B\9577\7684??!!";
+
+	# Czech
+	name 3 1 0x0405 "Cokdy\017Estejn\011Bjakoslovojedlouh\00E1??!!";
+
+	# Danish
+	name 3 1 0x0406 "Hvadhvisligesomordeterlang??!!";
+
+	# Dutch
+	name 3 1 0x0413 "hoezithetalsjezoalshetwoordislang??!!";
+
+	# English GB
+	name 3 1 0x0809 "whataboutiflikethewordislong??!!";
+
+	# English US
+	name 1 0 0 "whataboutiflikethewordislong??!!";
+	name 3 1 0x0409 "whataboutiflikethewordislong??!!";
+
+	# Finnish
+	name 3 1 0x040B "ent\00E4joskutensanaonpitk\00E4??!!";
+
+	# French CA
+	name 3 1 0x0C0C "qu'enest-ilsicommelemotestlong??!!";
+
+	# French FR
+	name 3 1 0x040C "qu'enest-ilsicommelemotestlong??!!";
+
+	# German
+	name 3 1 0x0407 "wasistwennwiedasWortistlang??!!";
+
+	# Greek
+	name 3 1 0x0408 "\03A4\03B9\03B3\03AF\03BD\03B5\03C4\03B1\03B9\03B5\03AC\03BD\03CC\03C0\03C9\03C2\03B7\03BB\03AD\03BE\03B7\03B5\03AF\03BD\03B1\03B9\03BC\03B5\03B3\03AC\03BB\03B7??!!";
+
+	# Hindi
+	name 3 1 0x0439 "\0915\094D\092F\093E\0936\092C\094D\0926\0915\0940\0924\0930\0939\0932\0902\092C\0947\0939\0948\0915\0947\092C\093E\0930\0947\092E\0947\0902\092F\0926\093F??!!";
+
+	# Hungarian
+	name 3 1 0x040E "Milennehamintasz\00F3hossz\00FA??!!";
+
+	# Italian
+	name 3 1 0x0410 "chediresecomelaparola\00E8lunga??!!";
+
+	# Japanese
+	name 3 1 0x0411 "\4F55\8A9E\306E\3088\3046\306B\3001\9577\3044\3067\3042\308C\3070\7D04??!!";
+
+	# Korean
+	name 3 1 0x0412 "\C5B4\B5A4\B2E8\C5B4\CC98\B7FC\AE34\ACBD\C6B0\C57D??!!";
+
+	# Malayalam
+	name 3 1 0x044C "\0D0E\0D28\0D4D\0D24\0D41\0D35\0D1A\0D28\0D02\0D2A\0D47\0D3E\0D32\0D46\0D28\0D40\0D23\0D4D\0D1F\0D0E\0D19\0D4D\0D15\0D3F\0D7D\0D15\0D41\0D31\0D3F\0D1A\0D4D\0D1A\0D4D??!!";
+
+	# Marathi
+	name 3 1 0x044E "\0915\093E\092F\0936\092C\094D\0926\0938\093E\0930\0916\0947\0932\093E\0902\092C\0905\0938\0947\0932\0924\0930\092C\0926\094D\0926\0932??!!";
+
+	# Norwegian
+	name 3 1 0x0414 "hvaomhvissomordeterlang??!!";
+
+	# Polish
+	name 3 1 0x0415 "acoje\015Blitakjaks\0142owojestd\0142ugi??!!";
+
+	# Portuguese
+	name 3 1 0x0416 "Quetalsecomoapalavra\00E9longa??!!";
+
+	# Russian
+	name 3 1 0x0419 "\0427\0442\043E\0435\0441\043B\0438\043A\0430\043A\0441\043B\043E\0432\043E\0438\043C\0435\0435\0442\0434\043B\0438\043D\0443??!!";
+
+	# Spanish ES
+	name 3 1 0x040A "\00BFqu\00E9pasasicomolapalabraesmucho??!!";
+
+	# Spanish MX
+	name 3 1 0x080A "\00BFqu\00E9pasasicomolapalabraesmucho??!!";
+
+	# Swedish
+	name 3 1 0x041D "hur\00E4romliksomordet\00E4rl\00E5ng??!!";
+
+	# Turkish
+	name 3 1 0x041F "nekelimegibiuzuniseyakla\015F\0131k??!!";
+
+	# Ukrainian
+	name 3 1 0x0422 "\0429\043E\044F\043A\0449\043E\044F\043A\0441\043B\043E\0432\043E\043C\0430\0454\0434\043E\0432\0436\0438\043D\0443??!!";
+
+};

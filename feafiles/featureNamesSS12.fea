@@ -1,0 +1,87 @@
+featureNames {
+	# Chinese S
+	name 3 1 0x0804 "\663E\793A\5143\97F3\5F62\6210 \00C4 \00CF \00D6 \00DC";
+
+	# Chinese T
+	name 3 1 0x0404 "\986F\793A\5143\97F3\5F62\6210 \00C4 \00CF \00D6 \00DC";
+
+	# Czech
+	name 3 1 0x0405 "display p\0159ehl\00E1ska tvo\0159\00ED \00C4 \00CF \00D6 \00DC";
+
+	# Danish
+	name 3 1 0x0406 "display omlyd danner \00C4 \00CF \00D6 \00DC";
+
+	# Dutch
+	name 3 1 0x0413 "weergave umlaut vormt \00C4 \00CF \00D6 \00DC";
+
+	# English GB
+	name 3 1 0x0809 "display umlaut forms \00C4 \00CF \00D6 \00DC";
+
+	# English US
+	name 1 0 0 "display umlaut forms \80 \EC \85 \86";
+	name 3 1 0x0409 "display umlaut forms \00C4 \00CF \00D6 \00DC";
+
+	# Finnish
+	name 3 1 0x040B "n\00E4ytt\00F6 umlaut muodostaa \00C4 \00CF \00D6 \00DC";
+
+	# French CA
+	name 3 1 0x0C0C "affichage tr\00E9ma forme \00C4 \00CF \00D6 \00DC";
+
+	# French FR
+	name 3 1 0x040C "affichage tr\00E9ma forme \00C4 \00CF \00D6 \00DC";
+
+	# German
+	name 3 1 0x0407 "Anzeige Umlaut bildet \00C4 \00CF \00D6 \00DC";
+
+	# Greek
+	name 3 1 0x0408 "\03BC\03BF\03C1\03C6\03AD\03C2 \03B5\03BC\03C6\03AC\03BD\03B9\03C3\03B7\03C2 \03B4\03B9\03B1\03BB\03C5\03C4\03B9\03BA\03AC \00C4 \00CF \00D6 \00DC";
+
+	# Hindi
+	name 3 1 0x0439 "\092A\094D\0930\0926\0930\094D\0936\0928 \092F\0942\092E\0932\0949\091F \0930\0942\092A\094B\0902 \00C4 \00CF \00D6 \00DC";
+
+	# Hungarian
+	name 3 1 0x040E "kijelz\0151n \00E9kezet k\00E9pez \00C4 \00CF \00D6 \00DC";
+
+	# Italian
+	name 3 1 0x0410 "Display dieresi forma \00C4 \00CF \00D6 \00DC";
+
+	# Japanese
+	name 3 1 0x0411 "\8868\793A\30A6\30E0\30E9\30A6\30C8\306F\3092\5F62\6210\3057 \00C4 \00CF \00D6 \00DC";
+
+	# Korean
+	name 3 1 0x0412 "\B514\C2A4\D50C\B808\C774 \C6C0\B77C\C6B0\D2B8\B294 \C744 \D615\C131 \00C4 \00CF \00D6 \00DC";
+
+	# Malayalam
+	name 3 1 0x044C "\0D21\0D3F\0D38\0D4D\0D2A\0D4D\0D32\0D47 umlaut \0D2B\0D47\0D3E\0D2E\0D41\0D15\0D7E \00C4 \00CF \00D6 \00DC";
+
+	# Marathi
+	name 3 1 0x044E "\092A\094D\0930\0926\0930\094D\0936\0928 umlaut \092B\0949\0930\094D\092E \00C4 \00CF \00D6 \00DC";
+
+	# Norwegian
+	name 3 1 0x0414 "visnings omlyd danner \00C4 \00CF \00D6 \00DC";
+
+	# Polish
+	name 3 1 0x0415 "Wy\015Bwietlacz umlaut \00C4 \00CF \00D6 \00DC";
+
+	# Portuguese
+	name 3 1 0x0416 "exibi\00E7\00E3o trema forma \00C4 \00CF \00D6 \00DC";
+
+	# Russian
+	name 3 1 0x0419 "\0414\0438\0441\043F\043B\0435\0439 \0443\043C\043B\044F\0443\0442 \043E\0431\0440\0430\0437\0443\0435\0442 \0432\0432\043E\0434\0430-\0432\044B\0432\043E\0434\0430 \00C4 \00CF \00D6 \00DC";
+
+	# Spanish ES
+	name 3 1 0x040A "pantalla di\00E9resis forma \00C4 \00CF \00D6 \00DC";
+
+	# Spanish MX
+	name 3 1 0x080A "pantalla di\00E9resis forma \00C4 \00CF \00D6 \00DC";
+
+	# Swedish
+	name 3 1 0x041D "display omljud bildar \00C4 \00CF \00D6 \00DC";
+
+	# Turkish
+	name 3 1 0x041F "Ekran umlaut \00C4 \00CF \00D6 \00DC olu\015Fturur";
+
+	# Ukrainian
+	name 3 1 0x0422 "\0414\0438\0441\043F\043B\0435\0439 \0443\043C\043B\044F\0443\0442\043E\043C \0443\0442\0432\043E\0440\044E\0454 \0432\0432\0435\0434\0435\043D\043D\044F-\0432\0438\0432\0435\0434\0435\043D\043D\044F \00C4 \00CF \00D6 \00DC";
+
+};

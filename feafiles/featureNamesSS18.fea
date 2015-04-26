@@ -1,0 +1,87 @@
+featureNames {
+	# Chinese S
+	name 3 1 0x0804 "\4E00\4E2AS\4E86\4E00\4E2A\767E\91CC\9999";
+
+	# Chinese T
+	name 3 1 0x0404 "\4E00\500BS\4E86\4E00\500B\767E\91CC\9999";
+
+	# Czech
+	name 3 1 0x0405 "One S se na tymi\00E1nu";
+
+	# Danish
+	name 3 1 0x0406 "One S op p\00E5 en timian";
+
+	# Dutch
+	name 3 1 0x0413 "One S up op een tijm";
+
+	# English GB
+	name 3 1 0x0809 "one S up on a thyme";
+
+	# English US
+	name 1 0 0 "one S up on a thyme";
+	name 3 1 0x0409 "one S up on a thyme";
+
+	# Finnish
+	name 3 1 0x040B "yksi S yl\00F6s timjamia";
+
+	# French CA
+	name 3 1 0x0C0C "One S sur un thym";
+
+	# French FR
+	name 3 1 0x040C "One S sur un thym";
+
+	# German
+	name 3 1 0x0407 "ein bis S auf einer Thymian";
+
+	# Greek
+	name 3 1 0x0408 "\03AD\03BD\03B1 S \03B5\03C0\03AC\03BD\03C9 \03C3\03B5 \03AD\03BD\03B1 \03B8\03C5\03BC\03AC\03C1\03B9";
+
+	# Hindi
+	name 3 1 0x0439 "\090F\0915 \090F\0915 \0905\091C\0935\093E\092F\0928 \0915\0947 \092B\0942\0932 \092A\0930 \090F\0938";
+
+	# Hungarian
+	name 3 1 0x040E "Egy S fel a kakukkf\0171";
+
+	# Italian
+	name 3 1 0x0410 "One S su un timo";
+
+	# Japanese
+	name 3 1 0x0411 "1\306F\30BF\30A4\30E0\4E0A\306B S";
+
+	# Korean
+	name 3 1 0x0412 "\D558\B098\B294 \BC31 \B9AC \D5A5\AE4C\C9C0 S";
+
+	# Malayalam
+	name 3 1 0x044C "\0D12\0D30\0D41 \0D15\0D3E\0D36\0D3F\0D24\0D4D\0D24\0D41\0D2E\0D4D\0D2A \0D15\0D2F\0D31\0D3F \0D0E\0D38\0D4D";
+
+	# Marathi
+	name 3 1 0x044E "\090F\0915 \0939\093F\091A\0940 \092A\093E\0928\0947 \0938\094D\0935\092F\0902\092A\093E\0915\093E\0924 \0935\093E\092A\0930\0924\093E\0924 \0935\0930 \0915\0935\093F\0924\093E";
+
+	# Norwegian
+	name 3 1 0x0414 "One S opp p\00E5 en timian";
+
+	# Polish
+	name 3 1 0x0415 "jedno S w g\00F3r\0119 w tymianku";
+
+	# Portuguese
+	name 3 1 0x0416 "um S para cima em um tomilho";
+
+	# Russian
+	name 3 1 0x0419 "One S \043D\0430 \0442\0438\043C\044C\044F\043D\0430";
+
+	# Spanish ES
+	name 3 1 0x040A "uno toca en un tomillo";
+
+	# Spanish MX
+	name 3 1 0x080A "uno toca en un tomillo";
+
+	# Swedish
+	name 3 1 0x041D "One S upp p\00E5 en timjan";
+
+	# Turkish
+	name 3 1 0x041F "biri kekik kadar S";
+
+	# Ukrainian
+	name 3 1 0x0422 "One S \043D\0430 \0447\0435\0431\0440\0435\0446\044E";
+
+};

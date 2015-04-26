@@ -1,0 +1,87 @@
+featureNames {
+	# Chinese S
+	name 3 1 0x0804 "dolorem\5B58\6709quia\60B2\5750\963F\6885\5FB7";
+
+	# Chinese T
+	name 3 1 0x0404 "dolorem\5B58\6709quia\60B2\5750\963F\6885\5FB7";
+
+	# Czech
+	name 3 1 0x0405 "dolorem ipsum quia dolor sit amet";
+
+	# Danish
+	name 3 1 0x0406 "dolorem ipsum quia dolor sit amet";
+
+	# Dutch
+	name 3 1 0x0413 "dolorem ipsum quia dolor sit amet";
+
+	# English GB
+	name 3 1 0x0809 "dolorem ipsum quia dolor sit amet";
+
+	# English US
+	name 1 0 0 "dolorem ipsum quia dolor sit amet";
+	name 3 1 0x0409 "dolorem ipsum quia dolor sit amet";
+
+	# Finnish
+	name 3 1 0x040B "dolorem ipsum quia dolor sit amet";
+
+	# French CA
+	name 3 1 0x0C0C "dolorem ipsum quia dolor sit amet";
+
+	# French FR
+	name 3 1 0x040C "dolorem ipsum quia dolor sit amet";
+
+	# German
+	name 3 1 0x0407 "dolorem ipsum quia augue";
+
+	# Greek
+	name 3 1 0x0408 "dolorem ipsum quia \03B8\03BB\03AF\03C8\03B7 \03BA\03AC\03B8\03BF\03BD\03C4\03B1\03B9 \0391\03BC\03AD\03C4";
+
+	# Hindi
+	name 3 1 0x0439 "dolorem Ipsum quia \092E\093E\0924\092E amet \092C\0948\0920\094B";
+
+	# Hungarian
+	name 3 1 0x040E "dolorem ipsum quia dolor sit amet";
+
+	# Italian
+	name 3 1 0x0410 "dolorem ipsum dolor sit amet quia";
+
+	# Japanese
+	name 3 1 0x0411 "dolorem\30A4\30D7\30B5\30E0quia\60B2\3057\307F\306FAMET\5EA7\308B";
+
+	# Korean
+	name 3 1 0x0412 "dolorem ipsum\C758 quia \C2AC\D514\C740 AMET \C549\C544";
+
+	# Malayalam
+	name 3 1 0x044C "dolorem \0D07\0D2A\0D4D\0D38\0D02 quia \0D24\0D2E\0D4D\0D2A\0D15\0D02 amet \0D07\0D30\0D41\0D28\0D4D\0D28\0D41";
+
+	# Marathi
+	name 3 1 0x044E "dolorem \0917\0941\092A\094D\0924\0924\093E quia \092A\094D\0930\0936\093E\0938\0928 \0915\093E\0930 \092D\093E\0921\094D\092F\093E\0928\0947";
+
+	# Norwegian
+	name 3 1 0x0414 "dolorem ipsum quia dolor sit amet";
+
+	# Polish
+	name 3 1 0x0415 "dolorem ipsum quia dolor sit amet";
+
+	# Portuguese
+	name 3 1 0x0416 "dolorem ipsum quia dolor sit amet";
+
+	# Russian
+	name 3 1 0x0419 "dolorem Ipsum Quia \0431\043E\043B\044C \0441\0438\0434\0435\0442\044C \0410\043C\0435\0442";
+
+	# Spanish ES
+	name 3 1 0x040A "dolorem ipsum dolor sit amet quia";
+
+	# Spanish MX
+	name 3 1 0x080A "dolorem ipsum dolor sit amet quia";
+
+	# Swedish
+	name 3 1 0x041D "dolorem ipsum quia dolor sit amet";
+
+	# Turkish
+	name 3 1 0x041F "dolorem ipsum quia dolor sit amet";
+
+	# Ukrainian
+	name 3 1 0x0422 "dolorem Ipsum Quia \0431\0456\043B\044C \0441\0438\0434\0456\0442\0438 \0410\043C\0435\0442";
+
+};

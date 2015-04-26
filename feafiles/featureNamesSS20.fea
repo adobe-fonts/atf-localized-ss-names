@@ -1,0 +1,87 @@
+featureNames {
+	# Chinese S
+	name 3 1 0x0804 "\7ED3\675F \2014 \538B\8F74";
+
+	# Chinese T
+	name 3 1 0x0404 "\7D50\675F \2014 \58D3\8EF8";
+
+	# Czech
+	name 3 1 0x0405 "end \2014 grand fin\00E1le";
+
+	# Danish
+	name 3 1 0x0406 "enden \2014 store finale";
+
+	# Dutch
+	name 3 1 0x0413 "het einde \2014 grote finale";
+
+	# English GB
+	name 3 1 0x0809 "the end \2014 grand finale";
+
+	# English US
+	name 1 0 0 "the end \D1 grand finale";
+	name 3 1 0x0409 "the end \2014 grand finale";
+
+	# Finnish
+	name 3 1 0x040B "end \2014 loppuhuipennus";
+
+	# French CA
+	name 3 1 0x0C0C "la fin \2014 grande finale";
+
+	# French FR
+	name 3 1 0x040C "la fin \2014 grande finale";
+
+	# German
+	name 3 1 0x0407 "das Ende \2014 Finale";
+
+	# Greek
+	name 3 1 0x0408 "\03C4\03BF \03C4\03AD\03BB\03BF\03C2 \2014 \03BC\03B5\03B3\03AC\03BB\03BF \03C6\03B9\03BD\03AC\03BB\03B5";
+
+	# Hindi
+	name 3 1 0x0439 "\0905\0902\0924 \2014 \092D\0935\094D\092F \0938\092E\093E\092A\0928";
+
+	# Hungarian
+	name 3 1 0x040E "A v\00E9g\00E9n \2014 grand finale";
+
+	# Italian
+	name 3 1 0x0410 "Alla fine \2014 gran finale";
+
+	# Japanese
+	name 3 1 0x0411 "\30A8\30F3\30C9 \2014 \30B0\30E9\30F3\30C9\30D5\30A3\30CA\30FC\30EC";
+
+	# Korean
+	name 3 1 0x0412 "\B05D \2014 \ADF8\B79C\B4DC \D53C\B0A0\B808";
+
+	# Malayalam
+	name 3 1 0x044C "\0D05\0D35\0D38\0D3E\0D28\0D02 \2014 \0D17\0D4D\0D30\0D3E\0D28\0D4D\0D31\0D4D";
+
+	# Marathi
+	name 3 1 0x044E "\0936\0947\0935\091F\0940 \2014 \092D\0935\094D\092F \0936\0947\0935\091F";
+
+	# Norwegian
+	name 3 1 0x0414 "Til slutt \2014 grand finale";
+
+	# Polish
+	name 3 1 0x0415 "koniec \2014 wielki fina\0142";
+
+	# Portuguese
+	name 3 1 0x0416 "o fim \2014 grand finale";
+
+	# Russian
+	name 3 1 0x0419 "\043A\043E\043D\0435\0446 \2014 \0444\0438\043D\0430\043B";
+
+	# Spanish ES
+	name 3 1 0x040A "final \2014 gran final";
+
+	# Spanish MX
+	name 3 1 0x080A "final \2014 gran final";
+
+	# Swedish
+	name 3 1 0x041D "slutet \2014 stora finalen";
+
+	# Turkish
+	name 3 1 0x041F "sonu \2014 b\00FCy\00FCk finali";
+
+	# Ukrainian
+	name 3 1 0x0422 "\043A\0456\043D\0435\0446\044C \2014 \0444\0456\043D\0430\043B";
+
+};

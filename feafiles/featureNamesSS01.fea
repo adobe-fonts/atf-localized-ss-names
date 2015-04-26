@@ -1,0 +1,87 @@
+featureNames {
+	# Chinese S
+	name 3 1 0x0804 "\65E0\886C\7EBF\5B57\4F53\5F62\5F0F";
+
+	# Chinese T
+	name 3 1 0x0404 "\7121\896F\7DDA\5B57\9AD4\5F62\5F0F";
+
+	# Czech
+	name 3 1 0x0405 "Sans Serif formul\00E1\0159e";
+
+	# Danish
+	name 3 1 0x0406 "sans serif formularer";
+
+	# Dutch
+	name 3 1 0x0413 "sans serif vormen";
+
+	# English GB
+	name 3 1 0x0809 "sans serif forms";
+
+	# English US
+	name 1 0 0 "sans serif forms";
+	name 3 1 0x0409 "sans serif forms";
+
+	# Finnish
+	name 3 1 0x040B "sans serif lomakkeet";
+
+	# French CA
+	name 3 1 0x0C0C "sans formes serif";
+
+	# French FR
+	name 3 1 0x040C "sans formes serif";
+
+	# German
+	name 3 1 0x0407 "Sans-Serif-Formen";
+
+	# Greek
+	name 3 1 0x0408 "sans serif \03AD\03BD\03C4\03C5\03C0\03B1";
+
+	# Hindi
+	name 3 1 0x0439 "\0938\0948\0902\0938 \0938\0947\0930\093F\092B\093C \0930\0942\092A\094B\0902";
+
+	# Hungarian
+	name 3 1 0x040E "sans serif form\00E1k";
+
+	# Italian
+	name 3 1 0x0410 "sans serif forme";
+
+	# Japanese
+	name 3 1 0x0411 "\30B5\30F3\30BB\30EA\30D5\30D5\30A9\30FC\30E0";
+
+	# Korean
+	name 3 1 0x0412 "Sans \ACE0\B515 \C591\C2DD";
+
+	# Malayalam
+	name 3 1 0x044C "\0D2B\0D47\0D3E\0D2E\0D41\0D15\0D7E \0D38\0D3E\0D28\0D4D\0D38\0D4D\0D38\0D46\0D31\0D3F\0D2B\0D4D\0D05\0D15\0D4D\0D37\0D30\0D38\0D1E\0D4D\0D1A\0D2F\0D02";
+
+	# Marathi
+	name 3 1 0x044E "Sans Serif \092B\0949\0930\094D\092E";
+
+	# Norwegian
+	name 3 1 0x0414 "sans serif skjemaer";
+
+	# Polish
+	name 3 1 0x0415 "sans serif formy";
+
+	# Portuguese
+	name 3 1 0x0416 "sans serif formas";
+
+	# Russian
+	name 3 1 0x0419 "\0411\0435\0437 \0437\0430\0441\0435\0447\0435\043A \0444\043E\0440\043C\044B";
+
+	# Spanish ES
+	name 3 1 0x040A "sans serif formas";
+
+	# Spanish MX
+	name 3 1 0x080A "sans serif formas";
+
+	# Swedish
+	name 3 1 0x041D "sans serif former";
+
+	# Turkish
+	name 3 1 0x041F "sans serif formlar\0131";
+
+	# Ukrainian
+	name 3 1 0x0422 "\0431\0435\0437 \0437\0430\0440\0443\0431\043E\043A \0444\043E\0440\043C\0438";
+
+};

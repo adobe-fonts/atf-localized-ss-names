@@ -1,0 +1,87 @@
+featureNames {
+	# Chinese S
+	name 3 1 0x0804 "\7B80\5355 g";
+
+	# Chinese T
+	name 3 1 0x0404 "\7C21\55AE g";
+
+	# Czech
+	name 3 1 0x0405 "jednoduch\00FD g";
+
+	# Danish
+	name 3 1 0x0406 "simpel g";
+
+	# Dutch
+	name 3 1 0x0413 "eenvoudige g";
+
+	# English GB
+	name 3 1 0x0809 "simple g";
+
+	# English US
+	name 1 0 0 "simple g";
+	name 3 1 0x0409 "simple g";
+
+	# Finnish
+	name 3 1 0x040B "yksinkertainen g";
+
+	# French CA
+	name 3 1 0x0C0C "simples g";
+
+	# French FR
+	name 3 1 0x040C "simples g";
+
+	# German
+	name 3 1 0x0407 "einfache g";
+
+	# Greek
+	name 3 1 0x0408 "\03B1\03C0\03BB\03AE g";
+
+	# Hindi
+	name 3 1 0x0439 "\0938\0930\0932 g";
+
+	# Hungarian
+	name 3 1 0x040E "egyszer\0171 g";
+
+	# Italian
+	name 3 1 0x0410 "semplice g";
+
+	# Japanese
+	name 3 1 0x0411 "\30B7\30F3\30D7\30EB\306A g";
+
+	# Korean
+	name 3 1 0x0412 "\AC04\B2E8\D55C g";
+
+	# Malayalam
+	name 3 1 0x044C "\0D32\0D33\0D3F\0D24\0D2E\0D3E\0D2F g";
+
+	# Marathi
+	name 3 1 0x044E "\0938\093E\0927\0940 g";
+
+	# Norwegian
+	name 3 1 0x0414 "enkel g";
+
+	# Polish
+	name 3 1 0x0415 "prosta g";
+
+	# Portuguese
+	name 3 1 0x0416 "simples g";
+
+	# Russian
+	name 3 1 0x0419 "\043F\0440\043E\0441\0442\043E g";
+
+	# Spanish ES
+	name 3 1 0x040A "sencilla g";
+
+	# Spanish MX
+	name 3 1 0x080A "sencilla g";
+
+	# Swedish
+	name 3 1 0x041D "enkel g";
+
+	# Turkish
+	name 3 1 0x041F "basit g";
+
+	# Ukrainian
+	name 3 1 0x0422 "\043F\0440\043E\0441\0442\043E g";
+
+};

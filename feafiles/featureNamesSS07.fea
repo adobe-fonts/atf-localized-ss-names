@@ -1,0 +1,87 @@
+featureNames {
+	# Chinese S
+	name 3 1 0x0804 "\5A01\5C3C\65AF e";
+
+	# Chinese T
+	name 3 1 0x0404 "\5A01\5C3C\65AF e";
+
+	# Czech
+	name 3 1 0x0405 "Venetian e";
+
+	# Danish
+	name 3 1 0x0406 "Venetian e";
+
+	# Dutch
+	name 3 1 0x0413 "Venetiaanse e";
+
+	# English GB
+	name 3 1 0x0809 "Venetian e";
+
+	# English US
+	name 1 0 0 "Venetian e";
+	name 3 1 0x0409 "Venetian e";
+
+	# Finnish
+	name 3 1 0x040B "Venetian e";
+
+	# French CA
+	name 3 1 0x0C0C "v\00E9nitienne e";
+
+	# French FR
+	name 3 1 0x040C "v\00E9nitienne e";
+
+	# German
+	name 3 1 0x0407 "Venetian e";
+
+	# Greek
+	name 3 1 0x0408 "\03B5\03BD\03B5\03C4\03B9\03BA\03CC\03C2 e";
+
+	# Hindi
+	name 3 1 0x0439 "\0935\093F\0928\0940\0936\093F\092F\0928 e";
+
+	# Hungarian
+	name 3 1 0x040E "Venetian e";
+
+	# Italian
+	name 3 1 0x0410 "Venetian e";
+
+	# Japanese
+	name 3 1 0x0411 "\30D9\30CD\30C1\30A2 e";
+
+	# Korean
+	name 3 1 0x0412 "\BCA0\B124\CE58\C544 \C804\C790 e";
+
+	# Malayalam
+	name 3 1 0x044C "\0D35\0D46\0D28\0D40\0D38\0D3F\0D32\0D46 e";
+
+	# Marathi
+	name 3 1 0x044E "\090F\0915\0947 \0926\093F\0935\0936\0940 e";
+
+	# Norwegian
+	name 3 1 0x0414 "venetiansk e";
+
+	# Polish
+	name 3 1 0x0415 "Venetian e";
+
+	# Portuguese
+	name 3 1 0x0416 "Veneziano e";
+
+	# Russian
+	name 3 1 0x0419 "\0432\0435\043D\0435\0446\0438\0430\043D\0441\043A\0438\0439 \044D\043B\0435\043A\0442\0440\043E\043D\043D\043E\0439 e";
+
+	# Spanish ES
+	name 3 1 0x040A "veneciana e";
+
+	# Spanish MX
+	name 3 1 0x080A "veneciana e";
+
+	# Swedish
+	name 3 1 0x041D "Venetian e";
+
+	# Turkish
+	name 3 1 0x041F "Venedik e";
+
+	# Ukrainian
+	name 3 1 0x0422 "\0412\0435\043D\0435\0446\0456\0430\043D\0441\044C\043A\0438\0439 \0435\043B\0435\043A\0442\0440\043E\043D\043D\043E\0457 e";
+
+};

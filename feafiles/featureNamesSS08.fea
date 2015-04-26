@@ -1,0 +1,87 @@
+featureNames {
+	# Chinese S
+	name 3 1 0x0804 "\5706\5F62 E";
+
+	# Chinese T
+	name 3 1 0x0404 "\5713\5F62 E";
+
+	# Czech
+	name 3 1 0x0405 "kolo E";
+
+	# Danish
+	name 3 1 0x0406 "rund E";
+
+	# Dutch
+	name 3 1 0x0413 "ronde E";
+
+	# English GB
+	name 3 1 0x0809 "round E";
+
+	# English US
+	name 1 0 0 "round E";
+	name 3 1 0x0409 "round E";
+
+	# Finnish
+	name 3 1 0x040B "py\00F6re\00E4 E";
+
+	# French CA
+	name 3 1 0x0C0C "ronde E";
+
+	# French FR
+	name 3 1 0x040C "ronde E";
+
+	# German
+	name 3 1 0x0407 "Runde E";
+
+	# Greek
+	name 3 1 0x0408 "\03B3\03CD\03C1\03BF\03C2 E";
+
+	# Hindi
+	name 3 1 0x0439 "\0926\094C\0930 E";
+
+	# Hungarian
+	name 3 1 0x040E "kerek E";
+
+	# Italian
+	name 3 1 0x0410 "turno E";
+
+	# Japanese
+	name 3 1 0x0411 "\30E9\30A6\30F3\30C9 E";
+
+	# Korean
+	name 3 1 0x0412 "\B77C\C6B4\B4DC E";
+
+	# Malayalam
+	name 3 1 0x044C "\0D1A\0D41\0D31\0D4D\0D31\0D41\0D02 E";
+
+	# Marathi
+	name 3 1 0x044E "\0917\094B\0932 E";
+
+	# Norwegian
+	name 3 1 0x0414 "rund E";
+
+	# Polish
+	name 3 1 0x0415 "okr\0105g\0142e E";
+
+	# Portuguese
+	name 3 1 0x0416 "redondo E";
+
+	# Russian
+	name 3 1 0x0419 "\043A\0440\0443\0433\043B\044B\0439 E";
+
+	# Spanish ES
+	name 3 1 0x040A "ronda E";
+
+	# Spanish MX
+	name 3 1 0x080A "ronda E";
+
+	# Swedish
+	name 3 1 0x041D "rund E";
+
+	# Turkish
+	name 3 1 0x041F "yuvarlak E";
+
+	# Ukrainian
+	name 3 1 0x0422 "\043A\0440\0443\0433\043B\0438\0439 E";
+
+};

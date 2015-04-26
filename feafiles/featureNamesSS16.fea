@@ -1,0 +1,87 @@
+featureNames {
+	# Chinese S
+	name 3 1 0x0804 "\975E\5E38\5B89\9759\771F\7684\771F\7684\771F\7684\5F88\957F\4E32\7684\540D\5B57";
+
+	# Chinese T
+	name 3 1 0x0404 "\975E\5E38\5B89\975C\771F\7684\771F\7684\771F\7684\5F88\9577\4E32\7684\540D\5B57";
+
+	# Czech
+	name 3 1 0x0405 "Velmi docela opravdu opraaaaaavdu opravdu dloooooouh\00FD n\00E1zev striiiiiing";
+
+	# Danish
+	name 3 1 0x0406 "meget helt virkelig virkelig viiiiiirkelig laaaaaaangt navn streeeeeeng";
+
+	# Dutch
+	name 3 1 0x0413 "heel heel heel heeeeeeeeeeel errrrrrrg laaaaaaaange striiiiiiiiing naam";
+
+	# English GB
+	name 3 1 0x0809 "very quite really really reeeeeeeally loooooong name striiiiing";
+
+	# English US
+	name 1 0 0 "very quite really really reeeeeeeally loooooong name striiiiing";
+	name 3 1 0x0409 "very quite really really reeeeeeeally loooooong name striiiiing";
+
+	# Finnish
+	name 3 1 0x040B "eritt\00E4in hyvin todella todeeeeeella todella piiiiiiitk\00E4 nimi merkkijooooooono";
+
+	# French CA
+	name 3 1 0x0C0C "tr\00E8s calme vraiment vraiiiiiiiment vraiment loooooooongue chaaaaaaaa\00EEne de nom";
+
+	# French FR
+	name 3 1 0x040C "tr\00E8s calme vraiment vraiiiiiiiment vraiment loooooooongue chaaaaaaaa\00EEne de nom";
+
+	# German
+	name 3 1 0x0407 "seeeeehr ruhig wirkliiiiiiich wirklich wirklich laaaaaangen Namen Striiiiing";
+
+	# Greek
+	name 3 1 0x0408 "\03C0\03BF\03BB\03CD \03B1\03C1\03BA\03B5\03C4\03AC \03C0\03C1\03B1\03B3\03BC\03B1\03C4\03B9\03BA\03AC \03C0\03C1\03B1\03B3\03BC\03B1\03C4\03B9\03BA\03AC \03C0\03C1\03B1\03B1\03B1\03B1\03B1\03B1\03B3\03BC\03B1\03C4\03B9\03BA\03AC \03BC\03B5\03B3\03AC\03BB\03BF \03CC\03BD\03BF\03BC\03B1 \03C3\03C5\03BC\03B2\03BF\03BF\03BF\03BF\03BF\03BB\03BF\03C3\03B5\03B9\03C1\03AC\03C2";
+
+	# Hindi
+	name 3 1 0x0439 "\092C\0939\0941\0924 \0915\093E\092B\0940 \0935\093E\0938\094D\0924\0935 \092E\0947\0902 \0938\091A\0938\091A\0938\091A\0938\091A\0938\091A \092E\0947\0902 \092C\0939\0941\0924 \0932\0902\092C\093E \0928\093E\092E\0928\093E\092E\0928\093E\092E\0928\093E\092E\0928\093E\092E \0938\094D\091F\094D\0930\093F\0902\0917\0917\0917\0917\0917\0917\0917\0917\0917";
+
+	# Hungarian
+	name 3 1 0x040E "nagyon nagyon nagyon nagyon naaaaaaagyon hoooooooossz\00FA n\00E9vkaraaaaaaakterl\00E1ncok";
+
+	# Italian
+	name 3 1 0x0410 "striiiiiiinga di nome molto moooooooolto molto molto molto luuuuuuuuungo";
+
+	# Japanese
+	name 3 1 0x0411 "\975E\5E38\306B\975E\5E38\306B\672C\5F53\306B\672C\5F53\306B\672C\672C\672C\672C\672C\5F53\306B\9577\9577\9577\9577\9577\9577\9577\3044\540D\524D\306E\6587\6587\6587\6587\6587\6587\6587\5B57\5217";
+
+	# Korean
+	name 3 1 0x0412 "\C544\C8FC \C544\C8FC \C815\B9D0 \C815\B9D0 \C815\B9D0\C815\B9D0\C815\B9D0\C815\B9D0\C815\B9D0 \AE34 \C774\B984\C774\B984\C774\B984\C774\B984\C774\B984\C774\B984 \BB38\C790\C5F4\C5F4\C5F4\C5F4\C5F4\C5F4\C5F4\C5F4";
+
+	# Malayalam
+	name 3 1 0x044C "\0D35\0D33\0D30\0D46 \0D35\0D33\0D30\0D46 \0D35\0D33\0D30\0D46 \0D35\0D33\0D30\0D46 \0D35\0D33\0D33\0D33\0D33\0D33\0D33\0D33\0D33\0D33\0D33\0D30\0D46 \0D28\0D40\0D23\0D23\0D23\0D23\0D23\0D23\0D23\0D4D\0D1F \0D28\0D3E\0D2E\0D02 \0D38\0D4D\0D1F\0D4D\0D30\0D30\0D30\0D30\0D30\0D30\0D30\0D30\0D3F\0D02\0D17\0D4D";
+
+	# Marathi
+	name 3 1 0x044E "\0905\0924\093F\0936\092F \091C\094B\0930\0926\093E\0930 \0916\0930\094B\0916\0930 \0916\0930\094B\0916\0916\0916\0916\0916\0916\0916\0916\0930 \0916\0930\094B\0916\0930 \0932\093E\0902\092C\092C\092C\092C\092C\092C\092C\092C\092C\092C\092C \0928\093E\0935 \0938\094D\091F\094D\0930\093F\0902\0917\0917\0917\0917\0917\0917\0917\0917\0917\0917\0917";
+
+	# Norwegian
+	name 3 1 0x0414 "sv\00E6rt ganske virkelig virkeeeeeeelig virkelig laaaaaaaangt navn streeeeeeng";
+
+	# Polish
+	name 3 1 0x0415 "bardzo bardzo bardzo bardzo baaaaaaaardzo d\0142uuuuuuugie ci\0105\0105\0105\0105\0105\0105\0105\0105\0105\0105\0105\0105\0105\0105\0105gi";
+
+	# Portuguese
+	name 3 1 0x0416 "cadeia de noooooome muito muiiiiiiiiito muito muito muito loooooongo";
+
+	# Russian
+	name 3 1 0x0419 "\043E\0447\0435\043D\044C \043E\0447\0435\043D\044C \043E\0447\0435\043D\044C \043E\0447\0435\043D\044C \043E\0447\0435\0435\0435\0435\0435\0435\0435\043D\044C \0434\043B\0438\043D\043D\043D\043D\043D\043D\043D\043D\043D\043E\0435 \0438\043C\044F \0441\0442\0440\043E\043E\043E\043E\043E\043E\043E\043E\043E\043E\043A\0430";
+
+	# Spanish ES
+	name 3 1 0x040A "cadeeeeena de nombre muy muy muy muuuuuuuuy muy laaaaaaaaarga";
+
+	# Spanish MX
+	name 3 1 0x080A "cadeeeeena de nombre muy muy muy muuuuuuuuy muy laaaaaaaaarga";
+
+	# Swedish
+	name 3 1 0x041D "mycket riktigt riktigt riktigt riiiiiiiiktigt l\00E5\00E5\00E5\00E5\00E5\00E5\00E5\00E5\00E5ngt namn str\00E4\00E4\00E4\00E4\00E4\00E4\00E4ng";
+
+	# Turkish
+	name 3 1 0x041F "\00E7ok \00E7ok ger\00E7ekten ger\00E7ekten geeeeeeeeer\00E7ekten uzuuuuuuuun issssssssssim dize";
+
+	# Ukrainian
+	name 3 1 0x0422 "\0434\0443\0436\0435 \0434\0443\0436\0435 \0434\0443\0436\0435 \0434\0443\0436\0435 \0434\0443\0443\0443\0443\0443\0443\0443\0443\0443\0443\0443\0436\0435 \0434\043E\043E\043E\043E\043E\043E\043E\043E\043E\0432\0433\0435 \0456\043C'\044F \0440\044F\0434\0434\0434\0434\0434\0434\0434\0434\0434\043E\043A";
+
+};

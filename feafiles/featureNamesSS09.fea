@@ -1,0 +1,87 @@
+featureNames {
+	# Chinese S
+	name 3 1 0x0804 "\975E\964D J";
+
+	# Chinese T
+	name 3 1 0x0404 "\975E\964D J";
+
+	# Czech
+	name 3 1 0x0405 "non-sestupn\011B J";
+
+	# Danish
+	name 3 1 0x0406 "ikke-faldende J";
+
+	# Dutch
+	name 3 1 0x0413 "niet-aflopend J";
+
+	# English GB
+	name 3 1 0x0809 "non-descending J";
+
+	# English US
+	name 1 0 0 "non-descending J";
+	name 3 1 0x0409 "non-descending J";
+
+	# Finnish
+	name 3 1 0x040B "ei-laskeva J";
+
+	# French CA
+	name 3 1 0x0C0C "non-d\00E9croissant J";
+
+	# French FR
+	name 3 1 0x040C "non-d\00E9croissant J";
+
+	# German
+	name 3 1 0x0407 "Nicht absteigend J";
+
+	# Greek
+	name 3 1 0x0408 "\03BC\03B7-\03C6\03B8\03AF\03BD\03BF\03C5\03C3\03B1 J";
+
+	# Hindi
+	name 3 1 0x0439 "\0917\0948\0930-\0909\0924\0930\0924\0947 J";
+
+	# Hungarian
+	name 3 1 0x040E "nem cs\00F6kken\0151 J";
+
+	# Italian
+	name 3 1 0x0410 "non discendente J";
+
+	# Japanese
+	name 3 1 0x0411 "\975E\964D\9806 J";
+
+	# Korean
+	name 3 1 0x0412 "\BE44 \B0B4\B9BC\CC28\C21C J";
+
+	# Malayalam
+	name 3 1 0x044C "\0D28\0D47\0D3E\0D7A-\0D05\0D35\0D30\0D47\0D3E\0D39\0D23\0D02 J";
+
+	# Marathi
+	name 3 1 0x044E "\0928\0949\0928-\0909\0924\0930\0924\094D\092F\093E J";
+
+	# Norwegian
+	name 3 1 0x0414 "ikke-synkende J";
+
+	# Polish
+	name 3 1 0x0415 "zakaz malej\0105co J";
+
+	# Portuguese
+	name 3 1 0x0416 "n\00E3o descendente J";
+
+	# Russian
+	name 3 1 0x0419 "\043D\0435-\043F\043E \0443\0431\044B\0432\0430\043D\0438\044E J";
+
+	# Spanish ES
+	name 3 1 0x040A "no descendente J";
+
+	# Spanish MX
+	name 3 1 0x080A "no descendente J";
+
+	# Swedish
+	name 3 1 0x041D "icke-fallande J";
+
+	# Turkish
+	name 3 1 0x041F "olmayan inen J";
+
+	# Ukrainian
+	name 3 1 0x0422 "\041D\0415-\0441\043F\0430\0434\0430\043D\043D\044F\043C J";
+
+};

@@ -1,0 +1,87 @@
+featureNames {
+	# Chinese S
+	name 3 1 0x0804 "\5E0C\814A\4E1D\6BEB\6807";
+
+	# Chinese T
+	name 3 1 0x0404 "\5E0C\81D8\7D72\6BEB\6A19";
+
+	# Czech
+	name 3 1 0x0405 "\0158eck\00FD iota index";
+
+	# Danish
+	name 3 1 0x0406 "Gr\00E6sk t\00F8ddel s\00E6nket";
+
+	# Dutch
+	name 3 1 0x0413 "Griekse iota subscript";
+
+	# English GB
+	name 3 1 0x0809 "Greek iota subscript";
+
+	# English US
+	name 1 0 0 "Greek iota subscript";
+	name 3 1 0x0409 "Greek iota subscript";
+
+	# Finnish
+	name 3 1 0x040B "Kreikan iota alaindeksi";
+
+	# French CA
+	name 3 1 0x0C0C "Iota grec indice";
+
+	# French FR
+	name 3 1 0x040C "Iota grec indice";
+
+	# German
+	name 3 1 0x0407 "Griechische Jota Index";
+
+	# Greek
+	name 3 1 0x0408 "\0395\03BB\03BB\03B7\03BD\03B9\03BA\03AE \03B3\03B9\03CE\03C4\03B1 \03B4\03B5\03AF\03BA\03C4\03B7\03C2";
+
+	# Hindi
+	name 3 1 0x0439 "\0917\094D\0930\0940\0915 \091C\0930\093E \0938\092C\0938\094D\0915\094D\0930\093F\092A\094D\091F";
+
+	# Hungarian
+	name 3 1 0x040E "G\00F6r\00F6g jott\00E1nyit index";
+
+	# Italian
+	name 3 1 0x0410 "Iota pedice greco";
+
+	# Japanese
+	name 3 1 0x0411 "\30AE\30EA\30B7\30E3\306E\30A4\30AA\30BF\6DFB\5B57";
+
+	# Korean
+	name 3 1 0x0412 "\ADF8\B9AC\C2A4\C5B4 IOTA \CCA8\C790";
+
+	# Malayalam
+	name 3 1 0x044C "\0D17\0D4D\0D30\0D40\0D15\0D4D\0D15\0D4D \0D35\0D33\0D4D\0D33\0D3F \0D38\0D2C\0D4D\0D38\0D4D\0D15\0D4D\0D30\0D3F\0D2A\0D4D\0D31\0D4D\0D31\0D4D";
+
+	# Marathi
+	name 3 1 0x044E "\0917\094D\0930\0940\0915 \0939\094B\0924\0902 \0938\092C\0938\094D\0915\094D\0930\093F\092A\094D\091F";
+
+	# Norwegian
+	name 3 1 0x0414 "Gresk t\00F8ddel senket";
+
+	# Polish
+	name 3 1 0x0415 "Grecki jota indeks";
+
+	# Portuguese
+	name 3 1 0x0416 "Grega iota subscrito";
+
+	# Russian
+	name 3 1 0x0419 "\0413\0440\0435\0447\0435\0441\043A\0438\0439 \0439\043E\0442\0443 \0438\043D\0434\0435\043A\0441";
+
+	# Spanish ES
+	name 3 1 0x040A "Griega iota sub\00EDndice";
+
+	# Spanish MX
+	name 3 1 0x080A "Griega iota sub\00EDndice";
+
+	# Swedish
+	name 3 1 0x041D "Grekiska iota neds\00E4nkt";
+
+	# Turkish
+	name 3 1 0x041F "Yunan iota indis";
+
+	# Ukrainian
+	name 3 1 0x0422 "\0413\0440\0435\0446\044C\043A\0438\0439 \0439\043E\0442\0443 \0456\043D\0434\0435\043A\0441";
+
+};

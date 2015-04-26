@@ -1,0 +1,106 @@
+
+#--------------------------------------
+languagesystem DFLT dflt; # Default
+languagesystem latn dflt; # Latin default
+
+#--------------------------------------
+feature ss01 {
+	include(feafiles/featureNamesSS01.fea);
+	sub a by a.sups;
+} ss01;
+
+feature ss02 {
+	include(feafiles/featureNamesSS02.fea);
+	sub b by b.sups;
+} ss02;
+
+feature ss03 {
+	include(feafiles/featureNamesSS03.fea);
+	sub c by c.sups;
+} ss03;
+
+feature ss04 {
+	include(feafiles/featureNamesSS04.fea);
+	sub d by d.sups;
+} ss04;
+
+feature ss05 {
+	include(feafiles/featureNamesSS05.fea);
+	sub e by e.sups;
+} ss05;
+
+feature ss06 {
+	include(feafiles/featureNamesSS06.fea);
+	sub f by f.sups;
+} ss06;
+
+feature ss07 {
+	include(feafiles/featureNamesSS07.fea);
+	sub g by g.sups;
+} ss07;
+
+feature ss08 {
+	include(feafiles/featureNamesSS08.fea);
+	sub h by h.sups;
+} ss08;
+
+feature ss09 {
+	include(feafiles/featureNamesSS09.fea);
+	sub i by i.sups;
+} ss09;
+
+feature ss10 {
+	include(feafiles/featureNamesSS10.fea);
+	sub j by j.sups;
+} ss10;
+
+feature ss11 {
+	include(feafiles/featureNamesSS11.fea);
+	sub k by k.sups;
+} ss11;
+
+feature ss12 {
+	include(feafiles/featureNamesSS12.fea);
+	sub l by l.sups;
+} ss12;
+
+feature ss13 {
+	include(feafiles/featureNamesSS13.fea);
+	sub m by m.sups;
+} ss13;
+
+feature ss14 {
+	include(feafiles/featureNamesSS14.fea);
+	sub n by n.sups;
+} ss14;
+
+feature ss15 {
+	include(feafiles/featureNamesSS15.fea);
+	sub o by o.sups;
+} ss15;
+
+feature ss16 {
+	include(feafiles/featureNamesSS16.fea);
+	sub p by p.sups;
+} ss16;
+
+feature ss17 {
+	include(feafiles/featureNamesSS17.fea);
+	sub q by q.sups;
+} ss17;
+
+feature ss18 {
+	include(feafiles/featureNamesSS18.fea);
+	sub r by r.sups;
+} ss18;
+
+feature ss19 {
+	include(feafiles/featureNamesSS19.fea);
+	sub s by s.sups;
+} ss19;
+
+feature ss20 {
+	include(feafiles/featureNamesSS20.fea);
+	sub t by t.sups;
+} ss20;
+

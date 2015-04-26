@@ -1,0 +1,87 @@
+featureNames {
+	# Chinese S
+	name 3 1 0x0804 "\7B80\5355 W";
+
+	# Chinese T
+	name 3 1 0x0404 "\7C21\55AE W";
+
+	# Czech
+	name 3 1 0x0405 "jednoduch\00FD W";
+
+	# Danish
+	name 3 1 0x0406 "simpel W";
+
+	# Dutch
+	name 3 1 0x0413 "eenvoudige W";
+
+	# English GB
+	name 3 1 0x0809 "simple W";
+
+	# English US
+	name 1 0 0 "simple W";
+	name 3 1 0x0409 "simple W";
+
+	# Finnish
+	name 3 1 0x040B "yksinkertainen W";
+
+	# French CA
+	name 3 1 0x0C0C "simples W";
+
+	# French FR
+	name 3 1 0x040C "simples W";
+
+	# German
+	name 3 1 0x0407 "einfache W";
+
+	# Greek
+	name 3 1 0x0408 "\03B1\03C0\03BB\03CC\03C2 W";
+
+	# Hindi
+	name 3 1 0x0439 "\0938\0930\0932 W";
+
+	# Hungarian
+	name 3 1 0x040E "egyszer\0171 W";
+
+	# Italian
+	name 3 1 0x0410 "semplice W";
+
+	# Japanese
+	name 3 1 0x0411 "\30B7\30F3\30D7\30EB\306A W";
+
+	# Korean
+	name 3 1 0x0412 "\AC04\B2E8\D55C W";
+
+	# Malayalam
+	name 3 1 0x044C "\0D32\0D18\0D41\0D35\0D3E\0D2F W";
+
+	# Marathi
+	name 3 1 0x044E "\0938\094B\092A\0947 W";
+
+	# Norwegian
+	name 3 1 0x0414 "enkel W";
+
+	# Polish
+	name 3 1 0x0415 "prosta W";
+
+	# Portuguese
+	name 3 1 0x0416 "simples W";
+
+	# Russian
+	name 3 1 0x0419 "\043F\0440\043E\0441\0442\043E W";
+
+	# Spanish ES
+	name 3 1 0x040A "sencillo W";
+
+	# Spanish MX
+	name 3 1 0x080A "sencillo W";
+
+	# Swedish
+	name 3 1 0x041D "enkel W";
+
+	# Turkish
+	name 3 1 0x041F "basit W";
+
+	# Ukrainian
+	name 3 1 0x0422 "\043F\0440\043E\0441\0442\043E W";
+
+};

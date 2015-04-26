@@ -1,0 +1,87 @@
+featureNames {
+	# Chinese S
+	name 3 1 0x0804 "\7B80\5355\7684\5C0F\5199\5F62\6210\514B\53D4 a g t y";
+
+	# Chinese T
+	name 3 1 0x0404 "\7C21\55AE\7684\5C0F\5BEB\5F62\6210\514B\53D4 a g t y";
+
+	# Czech
+	name 3 1 0x0405 "jednoduch\00E1 mal\00E1 p\00EDsmena tvo\0159\00ED a g t y";
+
+	# Danish
+	name 3 1 0x0406 "enkle sm\00E5 bogstaver danner a g t y";
+
+	# Dutch
+	name 3 1 0x0413 "eenvoudige kleine letters vormt a g t y";
+
+	# English GB
+	name 3 1 0x0809 "simple lowercase forms a g t y";
+
+	# English US
+	name 1 0 0 "simple lowercase forms a g t y";
+	name 3 1 0x0409 "simple lowercase forms a g t y";
+
+	# Finnish
+	name 3 1 0x040B "yksinkertaisia pieni\00E4 muodostaa a g t y";
+
+	# French CA
+	name 3 1 0x0C0C "simples minuscules forme a g t y";
+
+	# French FR
+	name 3 1 0x040C "simples minuscules forme a g t y";
+
+	# German
+	name 3 1 0x0407 "einfache Klein bildet a g t y";
+
+	# Greek
+	name 3 1 0x0408 "\03B1\03C0\03BB\03AE \03C0\03B5\03B6\03AC \03BC\03BF\03C1\03C6\03AD\03C2 a g t y";
+
+	# Hindi
+	name 3 1 0x0439 "\0938\0930\0932 \0932\094B\0905\0930\0915\0947\0938 \0930\0942\092A\094B\0902 a g t y";
+
+	# Hungarian
+	name 3 1 0x040E "egyszer\0171 kisbet\0171s k\00E9pez a g t y";
+
+	# Italian
+	name 3 1 0x0410 "semplice minuscola forma a g t y";
+
+	# Japanese
+	name 3 1 0x0411 "\30B7\30F3\30D7\30EB\306A\5C0F\6587\5B57\306E\306F\3092\5F62\6210\3057 a g t y";
+
+	# Korean
+	name 3 1 0x0412 "\AC04\B2E8\D55C \C18C\BB38\C790 \C758 \B97C \D615\C131 a g t y";
+
+	# Malayalam
+	name 3 1 0x044C "\0D32\0D33\0D3F\0D24\0D2E\0D3E\0D2F \0D1A\0D46\0D31\0D3F\0D2F\0D15\0D4D\0D37\0D30\0D02 \0D2B\0D47\0D3E\0D2E\0D41\0D15\0D7E a g t y";
+
+	# Marathi
+	name 3 1 0x044E "\0938\094B\092A\0947 \0932\094B\0905\0930\0915\0947\0938 \092B\0949\0930\094D\092E a g t y";
+
+	# Norwegian
+	name 3 1 0x0414 "enkle sm\00E5 bokstaver danner a g t y";
+
+	# Polish
+	name 3 1 0x0415 "proste ma\0142e a g t y";
+
+	# Portuguese
+	name 3 1 0x0416 "min\00FAsculas simples forma a g t y";
+
+	# Russian
+	name 3 1 0x0419 "\043F\0440\043E\0441\0442\043E \0432 \043D\0438\0436\043D\0435\043C \0440\0435\0433\0438\0441\0442\0440\0435 \043E\0431\0440\0430\0437\0443\0435\0442 a g t y";
+
+	# Spanish ES
+	name 3 1 0x040A "sencilla min\00FAscula forma a g t y";
+
+	# Spanish MX
+	name 3 1 0x080A "sencilla min\00FAscula forma a g t y";
+
+	# Swedish
+	name 3 1 0x041D "enkel gemener bildar a g t y";
+
+	# Turkish
+	name 3 1 0x041F "Basit k\00FC\00E7\00FCk a g t y olu\015Fturur";
+
+	# Ukrainian
+	name 3 1 0x0422 "\043F\0440\043E\0441\0442\043E \0432 \043D\0438\0436\043D\044C\043E\043C\0443 \0440\0435\0433\0456\0441\0442\0440\0456 \0443\0442\0432\043E\0440\044E\0454 a g t y";
+
+};
