@@ -6,13 +6,13 @@ basit t
 basit y
 Venedik e
 yuvarlak E
-olmayan inen J
+düşüntüsüz J
 Uzun kuyruklu Q
 basit W
-Ekran umlaut Ä Ï Ö Ü oluşturur
-Unicase formlar
+Umlaut Ä Ï Ö Ü oluşturur
+Tek biçimli harfler
 Yunan iota indis
-olmayan inen f
+düşüntüsüz f
 çok çok gerçekten gerçekten geeeeeeeeerçekten uzuuuuuuuun issssssssssim dize
 nekelimegibiuzuniseyaklaşık??!!
 biri kekik kadar S
